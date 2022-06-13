@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/31 00:22:04.000.372,=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/22 17:18:18.000.330,=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/07/10 15:18:37.000.851,=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 15:37:45.000.870,=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 15:45:59.000.927,C:\WK-Technology\unPrincipal.pas=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 15:45:59.000.927,C:\WK-Technology\unPrincipal.dfm=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/06/08 15:46:35.000.531,C:\WK-Technology\WKTechnology.dproj=C:\Users\BERG\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/08 16:45:12.000.906,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/08 16:45:45.000.479,C:\WK-Technology\unDataModule.dfm=C:\WK-Technology\Unit1.dfm</Transaction>
+    <Transaction>2022/06/08 16:45:45.000.479,C:\WK-Technology\unDataModule.pas=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 10:41:09.000.975,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 11:44:58.000.084,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unClasses.pas</Transaction>
+    <Transaction>2022/06/09 11:47:47.000.611,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 11:56:50.000.864,C:\WK-Technology\Unit1.dfm=C:\WK-Technology\unClientes.dfm</Transaction>
+    <Transaction>2022/06/09 11:56:50.000.864,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unClientes.pas</Transaction>
+    <Transaction>2022/06/09 12:09:12.000.357,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 12:26:59.000.926,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unFramBotoes.pas</Transaction>
+    <Transaction>2022/06/09 12:26:59.000.926,C:\WK-Technology\Unit1.dfm=C:\WK-Technology\unFramBotoes.dfm</Transaction>
+    <Transaction>2022/06/09 15:18:56.000.594,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 15:20:41.000.164,C:\WK-Technology\unClasses.pas=</Transaction>
+    <Transaction>2022/06/09 15:20:50.000.012,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 15:21:58.000.885,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unClaClientes.pas</Transaction>
+    <Transaction>2022/06/09 22:55:12.000.883,=C:\WK-Technology\unProdutos.pas</Transaction>
+    <Transaction>2022/06/09 23:05:02.000.895,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/09 23:08:27.000.172,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unClaProdutos.pas</Transaction>
+    <Transaction>2022/06/10 08:03:00.000.338,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/10 08:04:12.000.436,C:\WK-Technology\Unit1.pas=C:\WK-Technology\unPedidos.pas</Transaction>
+    <Transaction>2022/06/10 08:04:12.000.436,C:\WK-Technology\Unit1.dfm=C:\WK-Technology\unPedidos.dfm</Transaction>
+    <Transaction>2022/06/10 08:28:28.707,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/10 08:32:13.833,C:\WK-Technology\unClaPedidos.pas=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/10 16:51:44.653,=C:\WK-Technology\Unit1.pas</Transaction>
+    <Transaction>2022/06/10 17:06:15.142,C:\WK-Technology\unClaPedidosProdutos.pas=C:\WK-Technology\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
